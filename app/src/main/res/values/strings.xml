@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">RunnerApp</string>
+<string-array name="filter_options">
+    <item>Date</item>
+    <item>Running Time</item>
+    <item>Distance</item>
+    <item>Average Speed</item>
+    <item>Calories Burned</item>
+</string-array>
+<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB06CkBkPSLPW8RKGr4P9T5gH3W7nkDO00</string>
+</resources>
